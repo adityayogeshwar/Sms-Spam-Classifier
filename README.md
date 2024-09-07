@@ -26,8 +26,5 @@ Potential enhancements to the project include:
 - Fine-tuning hyperparameters and text preprocessing techniques for better performance.
 - Exploring advanced NLP models or ensemble methods to handle complex text data more effectively.
 
-## Credits
-This project was developed by Haripriya R. If you have any questions or suggestions, feel free to contact me at rharipriya234@gmail.com.
-
 ---
 
